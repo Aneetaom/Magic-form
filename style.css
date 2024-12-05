@@ -1,0 +1,17 @@
+
+#form{
+    width: 250px;
+    margin: 150px auto 0 auto;
+    border: 2px solid#000 ;
+    border-radius: 15px;
+    padding: 25px;
+    background-color: rgb(0, 0, 0);
+    color: 3fff;
+    box-shadow: -2px 2px 15px #000 ;
+ }
+ p{
+    color: white;
+ }
+ #h1{
+    color: white;
+ }
